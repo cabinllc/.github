@@ -1,0 +1,36 @@
+name: ♻️ Refactor
+description: Suggest improvements to the codebase.
+labels: [enhancement]
+type: Task
+body:
+    - type: input
+      id: start-date
+      attributes:
+          label: Start date
+          description: Start of refactor
+          placeholder: YYYY-MM-DD
+    - type: checkboxes
+      id: incremental
+      attributes:
+          label: Incremental refactor?
+          description: Can this refactor be broken down into smaller, incremental changes?
+          options:
+              - label: "Yes, it will be gradually implemented"
+              - label: "No, there is no reasonable way to break it down"
+    - type: textarea
+      id: related-pull-requests
+      attributes:
+          label: Related pull requests
+          description: If this is an incremental refactor, list any related pull requests
+          value: |
+              1.
+    - type: textarea
+      id: refactor-summary
+      attributes:
+          label: Refactor summary
+          description: Provide a detailed description of the desired refactor
+    - type: textarea
+      id: additional-information
+      attributes:
+          label: Additional information
+          description: Any additional information that may be helpful during the refactor
