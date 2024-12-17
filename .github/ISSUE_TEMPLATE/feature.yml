@@ -1,0 +1,26 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement.
+labels: [enhancement]
+type: Feature
+body:
+    - type: input
+      id: start-date
+      attributes:
+          label: Start date
+          description: Start of development
+          placeholder: YYYY-MM-DD
+    - type: textarea
+      id: feature-summary
+      attributes:
+          label: Feature summary
+          description: Provide a detailed description of the desired feature
+    - type: textarea
+      id: additional-information
+      attributes:
+          label: Additional information
+          description: Any additional information that may be helpful in implementing the feature
+    - type: textarea
+      id: screenshots
+      attributes:
+          label: Screenshots
+          description: If applicable, drag and drop relevant screenshots
