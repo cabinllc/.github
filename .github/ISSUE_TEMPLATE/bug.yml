@@ -2,8 +2,6 @@ name: 🐞 Bug Report
 description: Report a broken feature or unexpected behavior.
 labels: [bug]
 type: Bug
-assignees:
-    - tyleralbee
 body:
     - type: textarea
       id: steps-to-reproduce
