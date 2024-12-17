@@ -1,0 +1,59 @@
+name: 🐞 Bug Report
+description: Report a broken feature or unexpected behavior.
+labels: [bug]
+type: Bug
+assignees:
+    - tyleralbee
+body:
+    - type: textarea
+      id: steps-to-reproduce
+      attributes:
+          label: Steps to reproduce
+          description: What steps were taken to produce the bug?
+          placeholder: |
+              1. Go to '...'
+              2. Click on '...'
+              3. Scroll down to '...'
+              4. See error
+    - type: textarea
+      id: expected-behavior
+      attributes:
+          label: Expected behavior
+          description: What should have happened?
+    - type: textarea
+      id: actual-behavior
+      attributes:
+          label: Actual behavior
+          description: What actually happened?
+    - type: textarea
+      id: error-message
+      attributes:
+          label: Error message
+          description: What error message was displayed or logged (if any)?
+    - type: textarea
+      id: logs
+      attributes:
+          label: Log output
+          description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+          render: bash
+    - type: dropdown
+      id: os
+      attributes:
+          label: Operating system
+          description: What operating system are you using?
+          options:
+              - Linux
+              - macOS
+              - Windows
+          default: 0
+    - type: textarea
+      id: additional-information
+      attributes:
+          label: Additional information
+          description: Any additional information that may be helpful in diagnosing or fixing the bug.
+    - type: textarea
+      id: screenshots
+      attributes:
+          label: Screenshots
+          description: If applicable, please attach screenshots of the bug.
+          placeholder: Drag and drop files here
