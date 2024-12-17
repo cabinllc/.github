@@ -1,0 +1,10 @@
+name: 📝 Documentation
+description: Suggest improvements to documentation.
+labels: [documentation]
+type: Task
+body:
+    - type: textarea
+      id: description
+      attributes:
+          label: Description
+          description: What information should be added or updated?
