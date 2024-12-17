@@ -3,19 +3,26 @@
 
 ## Custom software, built for your business
 
-Though we've helped build startups, we specialize in working with established businesses (~$1M-$50M in revenue). Our clients typically have an established workflow. I start by sitting in on meetings and learning how the business operates. During that time, I'm looking for three things.
+Though we've helped build startups, we specialize in working with established businesses (~$1M-$50M in revenue). Our clients typically have an established workflow. We'll start by sitting in on meetings and learning how the business operates. We're looking for three things:
 
-### Repetition
 
-A smart business owner has already tackled the repetitive task itself - I'll be looking at how you solved it. If the solution still requires a team member's input, I'll be looking to see if they can do it in five minutes or less.
+## Repetition
 
-### Context Switching
+> [!WARNING]
+> A smart business owner has already taken steps to automate repetitive tasks - but if the solution still requires a team member's input, it's costing you more time than you think.
 
-If they can complete the task in 5 minutes or less, the task is a strong candidate for automation. Considering the average person takes 23 minutes to get back on track after an interruption, there is a significant amount to gain by removing the task from the team member's plate entirely. At this point, automation becomes the second best option, with the best option being to remove the task entirely.
 
-### Irrelevance
+## Context Switching
 
-Depending on the relevance of the task to the company's core value offering, it may be more reasonable to outsource the task or discontinue support for it entirely.
+> [!TIP]
+> If a task takes 5 minutes or less, it's a strong candidate for automation. The average person takes 23 minutes to get back on track after an interruption; there's a significant amount to gain by removing the task from the team member's plate entirely.
+
+
+## Impact
+
+> [!IMPORTANT]
+> Depending on the relevance of the task to the company's core value offering, it may be more reasonable to outsource the task or discontinue support for it entirely.
+
 
 ## About us
 
