@@ -3,12 +3,6 @@ description: Suggest improvements to the codebase.
 labels: [enhancement]
 type: Task
 body:
-    - type: input
-      id: start-date
-      attributes:
-          label: Start date
-          description: Start of refactor
-          placeholder: YYYY-MM-DD
     - type: checkboxes
       id: incremental
       attributes:
