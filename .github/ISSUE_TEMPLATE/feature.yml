@@ -4,11 +4,11 @@ labels: [enhancement]
 type: Feature
 body:
     - type: input
-      id: start-date
+      id: feature-branch 
       attributes:
-          label: Start date
-          description: Start of development
-          placeholder: YYYY-MM-DD
+          label: Feature branch 
+          description: Branch name with a link if applicable
+          placeholder: descriptive-branch-name 
     - type: textarea
       id: feature-summary
       attributes:
@@ -24,3 +24,4 @@ body:
       attributes:
           label: Screenshots
           description: If applicable, drag and drop relevant screenshots
+
