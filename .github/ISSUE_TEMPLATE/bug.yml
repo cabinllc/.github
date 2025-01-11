@@ -34,16 +34,6 @@ body:
           label: Log output
           description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
           render: bash
-    - type: dropdown
-      id: os
-      attributes:
-          label: Operating system
-          description: What operating system are you using?
-          options:
-              - Linux
-              - macOS
-              - Windows
-          default: 0
     - type: textarea
       id: additional-information
       attributes:
