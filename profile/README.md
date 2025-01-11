@@ -3,7 +3,7 @@
 
 ## Custom software, built for your business
 
-Though we've helped build startups, we specialize in working with established businesses (~$1M-$50M in revenue). Our clients typically have an established workflow. We'll start by sitting in on meetings and learning how the business operates. We're looking for three things:
+Though we've helped build startups, we specialize in working with established businesses. Our clients typically have an established workflow. We'll start by sitting in on meetings and learning how the business operates. We're looking for three things:
 
 ## Repetition
 
